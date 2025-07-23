@@ -367,7 +367,7 @@ export default function Component() {
               animate={{ y: 0 }}
               transition={{ delay: 0.4 }}
             >
-              Yudi vai comer hoje! 🎉
+              Todos felizes ebaaa! 🎉
             </motion.p>
 
             <motion.p
